@@ -1,0 +1,15 @@
+.div-facebook{
+    justify-content: center;
+    align-items: center;
+    display:flex;
+    padding-top:20%;
+}
+img{
+    transition: transform .2s;
+    width: 120px;
+    height:120px;
+    margin:0 auto;
+}
+img:hover{
+    transform:scale(2.5);
+}
